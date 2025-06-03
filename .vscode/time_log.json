@@ -8,6 +8,24 @@
           "email": "edskateicevida@gmail.com"
         },
         "timeSpent": 0
+      },
+      {
+        "date": "2025-06-03T16:19:44.274Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 6
+      }
+    ],
+    "index.html.git": [
+      {
+        "date": "2025-06-03T16:18:50.754Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 7
       }
     ]
   }
